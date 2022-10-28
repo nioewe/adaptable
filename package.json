@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "start": "node node_shell.js"
+  },
+  "devDependencies": {
+    "@architect/sandbox": "^5.3.4"
   }
 }
